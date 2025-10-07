@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   title: "ASURAX Studios - Cyber Security Engineer | Game Designer | AI Innovator",
   description: "Professional portfolio of Habibi S - Cyber Security Engineer, Game Designer, and AI Innovator. Explore my projects, skills, and achievements in technology and design.",
   keywords: "cyber security, game design, AI, portfolio, Habibi S, ASURAX Studios, technology, innovation",
-  authors: [{ name: "Habibi S", url: "https://github.com/asurax1983" }],
+  authors: [{ name: "ASURAX STUDIOS", url: "https://github.com/habibi-as" }],
   creator: "ASURAX Studios",
   openGraph: {
     type: "website",
